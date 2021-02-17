@@ -4,10 +4,11 @@
 
 **Card playing with Circuitry** is a set of cards designed to play a game with a breadboard and many different electric components.
 It's design and used components are inspired from the Seminar [**Circuitry-based sound.**](https://github.com/SCLW/Circuitry-Based-Sound)  
+This page describes how to play a game with this card.
 (The title of this game is not defined yet.)
 
 
-#### Contents
+# Contents
 1. [Requirement](#Requirement)
 2. [Basic HOWTO of the Game](#Basic-HOWTO-of-the-Game)
 3. [Printing the Cards](#Printing-the-Cards)
