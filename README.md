@@ -1,16 +1,28 @@
 # Card playing with Circuitry
 
 **Card playing with Circuitry** is a set of cards designed to play a game with a breadboard and many different electric components.
+It's design and used components are inspired from the Seminar [**Circuitry-based sound.**](https://github.com/SCLW/Circuitry-Based-Sound)  
 
-It's design and used components are inspired from the Seminar **Circuitry-based sound.**
+The required components to play this game is:
+- A set of this card
+- Breadboard x1
+- Many jumper cables
+- Many capacitors
+- Many resistors
+- Many LEDs
+- Many diodes
+- CMOS chips(CD40106, CD4093, CD4070)
 
+The CMOS chips used in this game is limited to above mentioned three chips. There needs to be a more detailed rule in order to use additional chips like CD4040.
 
+(The title of this game is not defined yet.)
 
-The title of this game is not defined yet.
 
 #### Contents
 1. [Basic HOWTO of the Game](#Basic-HOWTO-of-the-Game)
 2. [Printing the Cards](#Printing-the-Cards)
+3. [List of Commands](#List-of-Commands)
+4. [Possible application](#Possible-applications)
 
 
 # Basic HOWTO of the Game
@@ -40,6 +52,7 @@ The title of this game is not defined yet.
 
 	The game ends only if the deck is empty.
 	And the winner will be the one who has more points at the end.
+	But if both player has the same point and the deck is empty at the same time, then the Attacker wins.
 	
 		- The Defender gets 1 point for each OUTPUT.
 		- The Defender gets 1 point in every turn, when the Loudspeaker is making sound.
