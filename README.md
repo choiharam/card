@@ -80,7 +80,7 @@ The CMOS chips used in this game is limited to above mentioned three chips. Ther
 		> - (any idea?)
 
 # Things to decide before the Game
-There are several rules that needs to be decided by the players. This is because, it works as a variable that can be adjusted to the actual condition of the players. (e.g. knowledge, total number of the components, etc.)
+There are several rules that needs to be decided by the players. This is because, it works as a variable that can be adjusted to the actual condition of the players. (e.g. knowledge, total number of the components, etc.) And before all, different variable can create more interesting procedure and results.
 
 1. **What do you want to have on the breadboard at the beginning?**
 	- Few examples:  
