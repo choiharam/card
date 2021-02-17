@@ -4,6 +4,17 @@
 
 **Card playing with Circuitry** is a set of cards designed to play a game with a breadboard and many different electric components.
 It's design and used components are inspired from the Seminar [**Circuitry-based sound.**](https://github.com/SCLW/Circuitry-Based-Sound)  
+(The title of this game is not defined yet.)
+
+
+#### Contents
+1. [Requirement](#Requirement)
+2. [Basic HOWTO of the Game](#Basic-HOWTO-of-the-Game)
+3. [Printing the Cards](#Printing-the-Cards)
+4. [List of Commands](#List-of-Commands)
+5. [Possible application](#Possible-applications)
+
+# Requirement
 
 The required components to play this game is:
 - A set of this card
@@ -14,17 +25,10 @@ The required components to play this game is:
 - Many LEDs
 - Many diodes
 - CMOS chips(CD40106, CD4093, CD4070)
+- Some knowledge of how to use these components
 
 The CMOS chips used in this game is limited to above mentioned three chips. There needs to be a more detailed rule in order to use additional chips like CD4040.
 
-(The title of this game is not defined yet.)
-
-
-#### Contents
-1. [Basic HOWTO of the Game](#Basic-HOWTO-of-the-Game)
-2. [Printing the Cards](#Printing-the-Cards)
-3. [List of Commands](#List-of-Commands)
-4. [Possible application](#Possible-applications)
 
 
 # Basic HOWTO of the Game
