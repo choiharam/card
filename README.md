@@ -22,7 +22,7 @@ The required components to play this game are:
 
 - A set of this card
 - Breadboard x1
-- A loudspeaker
+- An active loudspeaker
 - Many jumper cables
 - Many capacitors
 - Many resistors
