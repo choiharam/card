@@ -2,7 +2,7 @@
 
 <img width="1000" alt="banner" src="https://github.com/choiharam/card/blob/main/images/banner.jpg">  
 
-**Card playing with Circuitry** is a set of cards designed to play a game with a breadboard and many different electronic components. This page describes how to play a game with this card. I'm still in the process of prototyping it, so any suggestion is welcome!
+**Card playing with Circuitry** is a set of cards designed to play a game with a breadboard and many different electronic components. This page describes how to play a game with this card. It's still in the process of prototyping, so any suggestion is welcome!
 It's design and used components are inspired from the Seminar [**Circuitry-based sound.**](https://github.com/SCLW/Circuitry-Based-Sound)  
 
 (The title of this game is not defined yet.)
@@ -18,7 +18,7 @@ It's design and used components are inspired from the Seminar [**Circuitry-based
 
 # Requirement
 
-The required components to play this game is:
+The required components to play this game are:
 
 - A set of this card
 - Breadboard x1
@@ -80,7 +80,7 @@ The CMOS chips used in this game is limited to above mentioned three chips. Ther
 		> - (any idea?)
 
 # Things to decide before the Game
-There are several rules that needs to be decided by the players. This is because, it works as a variable that can be adjusted to the actual condition of the players. (e.g. knowledge, total number of the components, etc.) And before all, different variable can create more interesting procedure and results.
+There are several rules that need to be decided by the players. This is because, it works as a variable that can be adjusted to the actual condition of the players. (e.g. knowledge, total number of the components, etc.) And most of all, different variable can create more interesting procedure and results.
 
 1. **What do you want to have on the breadboard at the beginning?**
 	- Few examples:  
@@ -90,7 +90,7 @@ There are several rules that needs to be decided by the players. This is because
 2. **Who will play the first turn?**
 	- Above in the basic rule, it's written that the Defender shall play the first turn. This is because defending(generating an OUTPUT) is more difficult in many cases. Additionally, it will make less sense to neutralize the circuit if the game begins with an empty circuit. **BUT** it's up to what the players want. So it should be decided before the game begins.
 3. **How many turns do you want to play?**
-	- As mentioned above, the game will end in a certain condition. But it might be too long to continue the game until the deck of the cards is empty. So one might want to have a limit of the card, or the number of the playing count. **OR** you can decide to use two sets of the card. Then, each card will have double of the chance to appear.
+	- As mentioned above, the game will end in a certain condition. But it might be too long to continue the game until the deck of the cards is empty. So one might want to have a limit of the card, or the number of the playing count. **OR** you can also decide to use two sets of the card. Then, each card will have double of the chance to appear.
 		
 # Printing the Cards
 I'm planning to print out and make it as a physical card.  
