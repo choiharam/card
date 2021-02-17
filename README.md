@@ -111,7 +111,8 @@ The design of the card is still under construction. But I'm planning to print ou
 - A Command is a sentence written on the card.  
 - Each card has a different command and a corresponding simple illustration.
 - Total of 38 commands are made so far, but can be added more.
-
+<details>
+	<summary> Show the list </summary>
 1. "Use one new jumper cable, and connect at least two existing components."
 2. "Use one new jumper cable, and connect two different pins of a CMOS chip."
 3. "Use two new jumper cables, and connect at least two existing components."
@@ -150,7 +151,7 @@ The design of the card is still under construction. But I'm planning to print ou
 36. "Swap a passive component with another existing passive component."
 37. "Swap an existing CMOS chip to another new CMOS chip"
 38. "Swap an existing CMOS chip with another existing CMOS chip"
-
+</details>
 
 ## Possible applications
 This project is not done yet, and has so many things to be decided or adjusted.  
