@@ -9,15 +9,17 @@ This page describes how to play a game with this card.
 
 
 # Contents
-1. [Requirement](#Requirement)
-2. [Basic HOWTO of the Game](#Basic-HOWTO-of-the-Game)
-3. [Printing the Cards](#Printing-the-Cards)
-4. [List of Commands](#List-of-Commands)
-5. [Possible application](#Possible-applications)
+> - [Requirement](#Requirement)
+> - [Basic HOWTO of the Game](#Basic-HOWTO-of-the-Game)
+> - [Things to decide before the Game](#Things-to-decide-before-the-Game)
+> - [Printing the Cards](#Printing-the-Cards)
+> - [List of Commands](#List-of-Commands)
+> - [Possible application](#Possible-applications)
 
 # Requirement
 
 The required components to play this game is:
+
 - A set of this card
 - Breadboard x1
 - Many jumper cables
@@ -71,11 +73,21 @@ The CMOS chips used in this game is limited to above mentioned three chips. Ther
 	1. sound generated through the **Loudspeaker**. (Floating noise is excluded)
 	2. Light emitted from the **LED**. Possibly in any frequency.
 	3. More possible candidates: (not included yet)
-		- Piezo buzzer
-		- Stepper motor(?)
-		- Any kind of component that can generate a kinetic or acoustic output
-		- (any idea?)
 
+		> - Piezo buzzer
+		> - Stepper motor(?)
+		> - Any kind of component that can generate a kinetic or acoustic output
+		> - (any idea?)
+
+# Things to decide before the Game
+There are several rules that needs to be decided by the players. This is because, it works as a variable that can be adjusted to the actual condition of the players. (e.g. knowledge, total number of the components, etc.)
+
+1. **What do you want to have on the breadboard at the beginning?**
+	- Few examples:  
+		1) Start with an empty breadboard. (not recommended)  
+		2) Start with a CMOS chip on the breadboard.  
+		3) Start with a complete circuitry on the breadboard.
+2. **Who will play the first turn?**  
 		
 # Printing the Cards
 I'm planning to print out and make it as a physical card.  
@@ -148,7 +160,7 @@ What I think would be nice to make is...
 
 1. **a Performance on the stage.**
 	- The main concern from this perspective is that, there might be no OUTPUT(sound) for a long time. And having no dynamic stuffs on a stage for a long time is not good at all, since it will make it boring. And as you might know, this game is somewhat too difficult for the audience to follow. So there needs to be many more considerations in order to perform it on a stage.(like having a ready-made-senario of how to play each turn, combining with a different kind of performance, etc.)	
-2. **an Educational Tool by which people can learn simple rules of how to use electric components.**
+2. **an Educational Tool by which people can learn simple rules of how to use electronic components.**
 	- For this, the game itself needs to be more simplified. If there is no CMOS chip in this game, and if we do this only with LED, resistor and capacitor, then even people without any background knowledge of electronics could also play this game(by learning a tiny bit of the components, like anode and cathode of the LED, etc.)
 3. **just a Game. like Chess or Go.**
 	- Let's grab some beer and play this!
