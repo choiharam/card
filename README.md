@@ -2,7 +2,7 @@
 
 <img width="1000" alt="banner" src="https://github.com/choiharam/card/blob/main/images/banner.jpg">  
 
-**Card playing with Circuitry** is a set of cards designed to play a game with a breadboard and many different electric components.
+**Card playing with Circuitry** is a set of cards designed to play a game with a breadboard and many different electronic components.
 It's design and used components are inspired from the Seminar [**Circuitry-based sound.**](https://github.com/SCLW/Circuitry-Based-Sound)  
 This page describes how to play a game with this card.
 (The title of this game is not defined yet.)
@@ -79,10 +79,10 @@ The CMOS chips used in this game is limited to above mentioned three chips. Ther
 		
 # Printing the Cards
 I'm planning to print out and make it as a physical card.  
-It will look like any conventional game cards.  
-The design of the cards is still under construction.  
-  
-Here below, you can see what I have done so far:
+It will look like any conventional game card.  
+The design of the card is still under construction.  
+The back side design is not planned yet.
+Here you can see what I have done so far:
 
 ![cards](https://github.com/choiharam/card/blob/main/images/cards.gif)
   
@@ -94,8 +94,6 @@ Here below, you can see what I have done so far:
 
 ![card05](https://github.com/choiharam/card/blob/main/images/card05.jpg)  
 
-These are the possible front side of the cards.  
-The back side design is not planned yet.
 
 ## List of Commands
 - A Command is a sentence written on the card.  
@@ -148,9 +146,9 @@ The way of how to develop this game could vary depending on what I want to do, o
 
 What I think would be nice to make is...  
 
-1. a **Performance on the stage.**
+1. **a Performance on the stage.**
 	- The main concern from this perspective is that, there might be no OUTPUT(sound) for a long time. And having no dynamic stuffs on a stage for a long time is not good at all, since it will make it boring. And as you might know, this game is somewhat too difficult for the audience to follow. So there needs to be many more considerations in order to perform it on a stage.(like having a ready-made-senario of how to play each turn, combining with a different kind of performance, etc.)	
-2. an **Educational Tool** by which people can learn simple rules of how to use electric components.
-	- For this, the game itself needs to be more simplified. If there is no CMOS chip in this game, and if we do this only with LED, resistor and capacitor, then even people without any background knowledge of electricity could also play this game(by learning a tiny bit of the components, like anode and cathode of the LED, etc.)
-3. just a Game. like Chess or Go.
+2. **an Educational Tool by which people can learn simple rules of how to use electric components.**
+	- For this, the game itself needs to be more simplified. If there is no CMOS chip in this game, and if we do this only with LED, resistor and capacitor, then even people without any background knowledge of electronics could also play this game(by learning a tiny bit of the components, like anode and cathode of the LED, etc.)
+3. **just a Game. like Chess or Go.**
 	- Let's grab some beer and play this!
