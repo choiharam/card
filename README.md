@@ -93,11 +93,7 @@ There are several rules that need to be decided by the players. This is because,
 	- As mentioned above, the game will end in a certain condition. But it might be too long to continue the game until the deck of the cards is empty. So one might want to have a limit of the card, or the number of the playing count. **OR** you can also decide to use two sets of the card. Then, each card will have double of the chance to appear.
 		
 # Printing the Cards
-I'm planning to print out and make it as a physical card.  
-It will look like any conventional game card.  
-The design of the card is still under construction.  
-The back side design is not planned yet.
-Here you can see what I have done so far:
+The design of the card is still under construction. But I'm planning to print out and make it as a physical card. It will look like any conventional game card. The back side design is not planned yet. Here you can see what I have done so far:
 
 ![cards](https://github.com/choiharam/card/blob/main/images/cards.gif)
   
