@@ -1,4 +1,4 @@
-#Card playing with Circuitry
+# Card playing with Circuitry
 
 **Card playing with Circuitry** is a set of cards designed to play a game with a breadboard and many different electric components.
 
@@ -8,12 +8,12 @@ It's design and used components are inspired from the Seminar **Circuitry-based 
 
 The title of this game is not defined yet.
 
-####Contents
+#### Contents
 1. [Basic HOWTO of the Game](#Basic-HOWTO-of-the-Game)
 2. [Printing the Cards](#Printing-the-Cards)
 
 
-#Basic HOWTO of the Game
+# Basic HOWTO of the Game
 1. This game is designed for **2 players**.
 2. One of them will play the role of **Defender** and the other one will be the **Attacker**.
 3. The goal of the **Defender** is to generate **OUTPUTs** with the circuit. (see below for more detail of **OUTPUT**)
@@ -46,7 +46,7 @@ The title of this game is not defined yet.
 		- The Attacker gets 1 point when anyone of the OUTPUT is neutralized.
 		- The player who burns or destroys a component will loose 1 point for each.
 
-####What means **OUTPUT** in this Game?
+#### What means **OUTPUT** in this Game?
 - **OUTPUT** means,
 	1. sound generated through the **Loudspeaker**. (Floating noise is excluded)
 	2. Light emitted from the **LED**. Possibly in any frequency.
@@ -57,7 +57,7 @@ The title of this game is not defined yet.
 		- (any idea?)
 
 		
-#Printing the Cards
+# Printing the Cards
 I'm planning to print out and make it as a physical card.  
 It will look like any conventional game cards.  
 The design of the cards is still under construction.  
@@ -77,7 +77,7 @@ Here below, you can see what I have done so far:
 These are the possible front side of the cards.  
 The back side design is not planned yet.
 
-##List of Commands
+## List of Commands
 - A Command is a sentence written on the card.  
 - Each card has a different command and a corresponding simple illustration.
 - Total of 38 commands are made so far, but can be added more.
@@ -122,7 +122,7 @@ The back side design is not planned yet.
 	38. "Swap an existing CMOS chip with another existing CMOS chip"
 
 
-##Possible applications
+## Possible applications
 This project is not done yet, and has so many things to be decided or adjusted.  
 The way of how to develop this game could vary depending on what I want to do, or what we want to do with this.  
 
