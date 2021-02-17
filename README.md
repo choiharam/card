@@ -112,7 +112,7 @@ The design of the card is still under construction. But I'm planning to print ou
 - Each card has a different command and a corresponding simple illustration.
 - Total of 38 commands are made so far, but can be added more.
 <details>
-	<summary> <mark style="background-color: black color:white">Show the list</mark> </summary>
+	<summary> *Show the list* </summary>
 	
 1. "Use one new jumper cable, and connect at least two existing components."
 2. "Use one new jumper cable, and connect two different pins of a CMOS chip."
