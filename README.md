@@ -40,7 +40,7 @@ The CMOS chips used in this game is limited to above mentioned three chips. Ther
 5. Each of two will start the game with **6 cards**.
 6. **One breadboard** needs to be prepared.(one board for two players, not for each)
 7. The **Defender** will play the **first turn**.
-8. In each turn, the player will flip one card from the holding 6 cards, and then **execute the command** written on the flipped card. *(i.e. Use one new capacitor, Remove one resistor)*
+8. In each turn, the player will flip one card from the holding 6 cards, and then **execute the command** written on the flipped card. *(e.g. Use one new capacitor, Remove one resistor)*
 9. The one who just completed the turn, should **draw a new card** from the deck. *(So each player always has to hold 6 cards in the hand until the deck is empty)*
 10. There are two different senarios of **how to end this game**:
   
