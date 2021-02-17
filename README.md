@@ -47,7 +47,7 @@ The CMOS chips used in this game is limited to above mentioned three chips. Ther
 10. There are two different senarios of **how to end this game**:
   
   
-#### Ending SENARIO 01 (I would call it _simple_)
+#### Ending Senario_01 (I would call it _simple_)
 
 	The game ends if one of these two conditions is met:  
 	
@@ -57,7 +57,7 @@ The CMOS chips used in this game is limited to above mentioned three chips. Ther
 	The Attacker wins, when the game ends with the first condition.  
 	The Defender wins, when the game ends with the second condition. 
 
-#### Ending SENARIO 02 (with a score system)
+#### Ending Senario_02 (with a score system)
 
 	The game ends only if the deck is empty.
 	And the winner will be the one who has more points at the end.
