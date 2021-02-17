@@ -1,6 +1,7 @@
 # Card playing with Circuitry
 
-<img width="1000" alt="banner" src="https://github.com/choiharam/card/blob/main/images/banner.jpg">
+<img width="1000" alt="banner" src="https://github.com/choiharam/card/blob/main/images/banner.jpg">  
+
 **Card playing with Circuitry** is a set of cards designed to play a game with a breadboard and many different electric components.
 It's design and used components are inspired from the Seminar [**Circuitry-based sound.**](https://github.com/SCLW/Circuitry-Based-Sound)  
 
