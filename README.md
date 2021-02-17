@@ -86,8 +86,11 @@ There are several rules that needs to be decided by the players. This is because
 	- Few examples:  
 		1) Start with an empty breadboard. (not recommended)  
 		2) Start with a CMOS chip on the breadboard.  
-		3) Start with a complete circuitry on the breadboard.
-2. **Who will play the first turn?**  
+		3) Start with a complete circuitry on the breadboard.(e.g. square wave oscillator, LED sequencer, random function, etc.)
+2. **Who will play the first turn?**
+	- Above in the basic rule, it's written that the Defender shall play the first turn. This is because defending(generating an OUTPUT) is more difficult in many cases. Additionally, it will make less sense to neutralize the circuit if the game begins with an empty circuit. **BUT** it's up to what the players want. So it should be decided before the game begins.
+3. **How many turns do you want to play?**
+	- As mentioned above, the game will end in a certain condition. But it might be too long to continue the game until the deck of the cards is empty. So one might want to have a limit of the card, or the number of the playing count.
 		
 # Printing the Cards
 I'm planning to print out and make it as a physical card.  
