@@ -66,12 +66,10 @@ Here below, you can see what I have done so far:
 
 ![cards](https://github.com/choiharam/card/blob/main/images/cards.gif)
   
-![card01](https://github.com/choiharam/card/blob/main/images/card01.jpg)    
-
+![card01](https://github.com/choiharam/card/blob/main/images/card01.jpg)
 ![card02](https://github.com/choiharam/card/blob/main/images/card02.jpg)  
 
-![card03](https://github.com/choiharam/card/blob/main/images/card03.jpg)  
-
+![card03](https://github.com/choiharam/card/blob/main/images/card03.jpg)
 ![card04](https://github.com/choiharam/card/blob/main/images/card04.jpg)  
 
 ![card05](https://github.com/choiharam/card/blob/main/images/card05.jpg)  
