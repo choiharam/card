@@ -10,7 +10,7 @@ It's design and used components are inspired from the Seminar [**Circuitry-based
 
 # Contents
 > - [Requirement](#Requirement)
-> - [Basic HOWTO of the Game](#Basic-HOWTO-of-the-Game)
+> - [Basic rule of the Game](#Basic-rule-of-the-Game)
 > - [Things to decide before the Game](#Things-to-decide-before-the-Game)
 > - [Printing the Cards](#Printing-the-Cards)
 > - [List of Commands](#List-of-Commands)
@@ -35,7 +35,7 @@ The CMOS chips used in this game is limited to above mentioned three chips. Ther
 
 
 
-# Basic HOWTO of the Game
+# Basic rule of the Game
 1. This game is designed for **2 players**.
 2. One of them will play the role of **Defender** and the other one will be the **Attacker**.
 3. The goal of the **Defender** is to generate **OUTPUTs** with the circuit. (see below for more detail of **OUTPUT**)
