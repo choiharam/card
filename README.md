@@ -38,7 +38,7 @@ The CMOS chips used in this game is limited to above mentioned three chips. Ther
 # Basic rule of the Game
 1. This game is designed for **2 players**.
 2. One of them will play the role of **Defender** and the other one will be the **Attacker**.
-3. The goal of the **Defender** is to generate **OUTPUTs** with the circuit. (see below for more detail of [**OUTPUT**](####What-means-OUTPUT-in-this-Game))
+3. The goal of the **Defender** is to generate **OUTPUTs** with the circuit. (see below for more detail of [**OUTPUT**](#What-means-OUTPUT-in-this-Game))
 4. The goal of the **Attacker** is to neutralize every **OUTPUT** made by the **Defender**.
 5. Each of two will start the game with **6 cards**.
 6. **One breadboard** needs to be prepared.(one board for two players, not for each)
