@@ -40,7 +40,7 @@ The CMOS chips used in this game is limited to above mentioned three chips. Ther
 2. One of them will play the role of **Defender** and the other one will be the **Attacker**.
 3. The goal of the **Defender** is to generate **OUTPUTs** with the circuit. (see below for more detail of [**OUTPUT**](#What-means-OUTPUT-in-this-Game))
 4. The goal of the **Attacker** is to neutralize every **OUTPUT** made by the **Defender**.
-5. Each of two will start the game with **6 cards**.
+5. The players will start the game with **6 cards** for each.
 6. **One breadboard** needs to be prepared.(one board for two players, not for each)
 7. The **Defender** will play the **first turn**.
 8. In each turn, the player will flip one card from the holding 6 cards, and then **execute the command** written on the flipped card. *(e.g. Use one new capacitor, Remove one resistor)*
